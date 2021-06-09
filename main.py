@@ -1,4 +1,4 @@
 def laPrimeraFuncion():
-    print("Helllo world")
+    print("Helllo")
 
 laPrimeraFuncion()
